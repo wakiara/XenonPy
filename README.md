@@ -7,7 +7,6 @@
 [![MacOS](https://github.com/yoshida-lab/XenonPy/workflows/MacOS/badge.svg)](https://github.com/yoshida-lab/XenonPy/actions?query=workflow%3AMacOS)
 [![Windows](https://github.com/yoshida-lab/XenonPy/workflows/Windows/badge.svg)](https://github.com/yoshida-lab/XenonPy/actions?query=workflow%3AWindows)
 [![Ubuntu](https://github.com/yoshida-lab/XenonPy/workflows/Ubuntu/badge.svg)](https://github.com/yoshida-lab/XenonPy/actions?query=workflow%3AUbuntu)
-[![Build Status](https://travis-ci.org/yoshida-lab/XenonPy.svg?branch=master)](https://travis-ci.org/yoshida-lab/XenonPy)
 [![codecov](https://codecov.io/gh/yoshida-lab/XenonPy/branch/master/graph/badge.svg)](https://codecov.io/gh/yoshida-lab/XenonPy)
 [![Version](https://img.shields.io/github/tag/yoshida-lab/XenonPy.svg?maxAge=360)](https://github.com/yoshida-lab/XenonPy/releases/latest)
 [![Python Versions](https://img.shields.io/pypi/pyversions/xenonpy.svg)](https://pypi.org/project/xenonpy/)
@@ -26,9 +25,15 @@ The current release provides some limited modules:
 
 XenonPy inspired by matminer: https://hackingmaterials.github.io/matminer/.
 
-XenonPy is a open source project https://github.com/yoshida-lab/XenonPy.
+XenonPy is an open source project https://github.com/yoshida-lab/XenonPy.
 
 See our documents for details: http://xenonpy.readthedocs.io
+
+## MDL server maintenance
+
+The **XenonPy.MDL** server is under technical maintenance.
+We apologize for the inconvenience caused to you.
+
 
 ## Publications
 
@@ -41,13 +46,13 @@ The following table list some core packages in XenonPy images.
 
 | Package        | Version   |
 | -------------- | --------- |
-| `PyTorch`      | 1.7.0     |
+| `PyTorch`      | 1.7.1     |
 | `tensorly`     | 0.5.0     |
 | `pymatgen`     | 2020.10.9 |
 | `matminer`     | 0.6.2     |
 | `mordred`      | 1.2.0     |
 | `scipy`        | 1.5.2     |
-| `scikit-learn` | 0.23.0    |
+| `scikit-learn` | 0.23.2    |
 | `xgboost`      | 1.3.0     |
 | `ngboost`      | master    |
 | `fastcluster`  | 1.1.26    |
